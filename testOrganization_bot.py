@@ -1,8 +1,3 @@
-# подключение библиотек
-# pip install pyTelegramBotAPI
-# pip install Faker
-
-
 from telebot import TeleBot, types
 from faker import Faker
 
